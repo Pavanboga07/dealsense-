@@ -44,6 +44,13 @@ submission also earns 1,000 SerpApi credits).
 python -m src.cli "RTX 4060 laptop under 80000 in India"
 ```
 
+Or the web UI:
+
+```bash
+python -m src.web
+# open http://localhost:5000
+```
+
 Example queries the parser handles:
 
 - `"cheapest noise cancelling headphones under ₹20k"`

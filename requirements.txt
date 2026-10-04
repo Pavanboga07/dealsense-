@@ -10,3 +10,6 @@ serpapi-search-tools>=1.0.0
 
 # CLI
 rich>=13.0.0
+
+# Web UI
+flask>=3.0.0
