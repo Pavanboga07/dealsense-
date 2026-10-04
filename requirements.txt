@@ -1,0 +1,12 @@
+# Core
+python-dotenv>=1.0.0
+
+# SerpApi: official client (live Google Shopping calls)
+google-search-results>=2.4.2
+
+# SerpApi agent tools (recommended by the hackathon; used for web/news
+# enrichment in the full build)
+serpapi-search-tools>=1.0.0
+
+# CLI
+rich>=13.0.0
